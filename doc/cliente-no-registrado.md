@@ -7,3 +7,13 @@ El cliente no-registrado podrá:
 + Eliminar productos del carrito
 + Registrarse cómo cliente
 + Procesar la compra
+
+---
+
+Yo cómo: Cliente no-registrado
+
+quiero: Poder registrarme
+
+para: comprar
+
+---
