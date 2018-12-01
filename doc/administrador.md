@@ -1,5 +1,5 @@
 ## Administrador
-El Administrador podrá:
+Cómo administrador  podré:
 
 + Acceder al panel de administración
 + Consultar y procesar pedidos
@@ -7,6 +7,7 @@ El Administrador podrá:
 + Ver, añadir, modificar y eliminar clientes
 + Ver el historial de compra de cada cliente
 + Ver, agregar, modificar y eliminar productos
++ Enviar mails masivos a los clientes
 
 ---
 
@@ -66,5 +67,15 @@ Yo cómo: Administrador
 quiero: Ver, agregar, eliminar, modificar productos en la tienda
 
 para: Mantener actualizada la tienda
+
+---
+
+---
+
+Yo cómo: Administrador
+
+quiero: Enviar mails masivos a los clientes
+
+para: enviarles ofertas
 
 ---

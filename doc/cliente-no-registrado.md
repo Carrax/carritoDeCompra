@@ -1,6 +1,6 @@
 ## Cliente no-registrado
 
-El cliente no-registrado podrá:
+Cómo cliente no-registrado podré:
 
 + Navegar por los productos aplicando diferentes filtros
 + Agregar una cantidad *X* de un determinado producto al carrito
