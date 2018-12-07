@@ -3,13 +3,13 @@
  Proyecto para un carrito de compra.
 
  Dispondrá de cuatro contextos:
- 1. [Superadministrador](doc/superadministrador.md)
+ 1. [Superadministrador](doc/contextos/uperadministrador.md)
  -> Podrá realizar tareas de administración avanzada, cómo crear categorias, dar de alta administradores.
- 2. [Administrador](doc/administrador.md)
+ 2. [Administrador](doc/contextos/administrador.md)
 -> Podrá realizar tareas de administración tanto de productos cómo de clientes.
- 3. [Cliente registrado](doc/cliente-registrado.md)
+ 3. [Cliente registrado](doc/contextos/cliente-registrado.md)
  -> Podrá agregar y eliminar productos en el carrito, administrar su cuenta. Porcesar la compra.
- 4. [Anónimo](doc/anonimo.md)
+ 4. [Anónimo](doc/contextos/anonimo.md)
  -> Podrá agregar y eliminar productos en el carrito y al procesar la comprá se le pedirá que se registre cómo cliente.
 
 ---
