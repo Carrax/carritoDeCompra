@@ -9,7 +9,7 @@
  + Historial de compra.
  + Filtrado de productos por categoría.
 
-###[Contextos](doc/contextos.md)
+###  [Contextos](doc/contextos.md)
 
  1. [Superadministrador](doc/contextos/superadministrador.md)
  -> Podrá realizar tareas de administración avanzada, cómo crear categorias, dar de alta administradores.
@@ -21,7 +21,7 @@
  -> Podrá agregar y eliminar productos en el carrito y al procesar la comprá se le pedirá que se registre cómo cliente.
 
 ---
-###[Entidades](doc/entidades.md)
+### [Entidades](doc/entidades.md)
 
 Dispondrá, en un principio, de ocho entidades:
 
