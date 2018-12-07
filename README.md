@@ -3,7 +3,7 @@
  Proyecto para un carrito de compra.
 
  Dispondrá de cuatro contextos:
- 1. [Superadministrador](doc/contextos/uperadministrador.md)
+ 1. [Superadministrador](doc/contextos/superadministrador.md)
  -> Podrá realizar tareas de administración avanzada, cómo crear categorias, dar de alta administradores.
  2. [Administrador](doc/contextos/administrador.md)
 -> Podrá realizar tareas de administración tanto de productos cómo de clientes.
