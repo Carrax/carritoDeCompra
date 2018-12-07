@@ -4,14 +4,11 @@ Cómo Superadministrador  podré:
 + Ver el menú de adminsitración
 + Acceder al panel de administración
 + Consultar y procesar pedidos
-+ Ver listado de cliente
-+ Ver listado de Superadministradores
-+ Ver, añadir, modificar y eliminar clientes
-+ Ver, añadir, modificar y eliminar SuperSuperadministradores
++ Ver listado de usuarios
++ Ver, añadir, modificar y eliminar usuarios
 + Ver el historial de compra de cada cliente
 + Ver, agregar, modificar y eliminar productos
-+ Enviar mails masivos a los clientes
-+ Enviar mails masivos a los SuperSuperadministradores
++ Enviar mails masivos a los usuarios
 + Crear grupos de usuarios
 + Catalogar los productos en distintas categorias
 + Recuperar constraseña
