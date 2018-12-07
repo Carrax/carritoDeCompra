@@ -21,7 +21,7 @@
  -> Podrá agregar y eliminar productos en el carrito y al procesar la comprá se le pedirá que se registre cómo cliente.
 
 ---
-### [Entidades](doc/entidades.md)
+###   [Entidades](doc/entidades.md)
 
 Dispondrá, en un principio, de ocho entidades:
 
