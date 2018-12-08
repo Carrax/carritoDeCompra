@@ -78,3 +78,10 @@ Como **Superadministrador**  quiero **Catalogar los distintos productos**  para 
 ---
 ### Recueprar contraseña
 Como **Superadministrador**  quiero **recuperar mi contraseña**  para poder **acceder con mi al sistema si olvido la contraseña**.
+
+
+---
+---
+
+## Criterios de aceptación
++ **Dado** que el usuario ha introduzido algún dato incorrecto **cuando** intenta logearse en el sistema **entonce** informarle de que algún dato es incorrecto y ofrecerle la oportunidad de volvera intentarlo o de recuperar la contraseña.

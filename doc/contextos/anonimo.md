@@ -29,3 +29,10 @@ Como **Anónimo**  quiero **eliminar productos añadidos al carrito**  para pode
 Como **Anónimo**  quiero **comprar los productos añadidos al carrito, a la vez que me registro**  para poder **registrarme y comprar a la vez**.
 
 ---
+---
+
+## Criterios de aceptación
+
++ **Dado** que el usuario anónimo no está registrado en el sistema **cuando** intenta acceder a alguna funcionalidad que requiere previlegios **entonces** informarle de que no puede acceder por falta de privilegios y redirigirle a la página de registro.
++ **Dado** que el usuario anónimo no puede procesar la compra **cuando** vaya a finalizar el proceso de compra **entonces** requerirle el registro cómo cliente.
++ **Dado** que el usuario ha introduzido algún dato incorrecto **cuando** intenta logearse en el sistema **entonce** informarle de que algún dato es incorrecto y ofrecerle la oportunidad de volvera intentarlo o de recuperar la contraseña.

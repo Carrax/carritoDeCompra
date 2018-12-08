@@ -43,7 +43,7 @@ Como **Administrador**  quiero **Ver un listado de los clientes**  para poder **
 
 ### CRUD clientes
 
-Como **Administrador**  quiero **Ver, modificar, eliminar a clientes manualmente**  para poder **gestionar eficazmente a los clientes**.
+Como **Administrador**  quiero **Ver, modificar, y eliminar a clientes manualmente**  para poder **gestionar eficazmente a los clientes**.
 
 ---
 
@@ -78,3 +78,11 @@ Como **Administrador**  quiero **Catalogar los distintos productos**  para poder
 ---
 ### Recueprar contraseña
 Como **Administrador**  quiero **recuperar mi contraseña**  para poder **acceder con mi al sistema si olvido la contraseña**.
+
+---
+---
+
+## Criterios de aceptación
+
++ **Dado** que el usuario anónimo dispone de todos los privilegios **cuando** intenta acceder a alguna funcionalidad que requiere previlegios de superadminsitrador, **entonces** informarle de que no puede acceder por falta de privilegios.
++ **Dado** que el usuario ha introduzido algún dato incorrecto **cuando** intenta logearse en el sistema **entonce** informarle de que algún dato es incorrecto y ofrecerle la oportunidad de volvera intentarlo o de recuperar la contraseña.

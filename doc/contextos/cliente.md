@@ -1,4 +1,4 @@
-## Cliente registrado
+  ## Cliente registrado
 
 Cómo cliente registrado podré:
 
@@ -47,3 +47,11 @@ Como **Cliente**  quiero **ver el menú de cliente**  para poder **acceder a los
 ---
 ### Recueprar contraseña
 Como **Cliente**  quiero **recuperar mi contraseña**  para poder **acceder con mi al sistema si olvido la contraseña**.
+
+---
+---
+
+## Criterios de aceptación
+
++ **Dado** que el usuario cliente no dispone de todos los privilegios **cuando** intenta acceder a alguna funcionalidad que requiere previlegios avanzados, **entonces** informarle de que no puede acceder por falta de privilegios.
++ **Dado** que el usuario ha introduzido algún dato incorrecto **cuando** intenta logearse en el sistema **entonce** informarle de que algún dato es incorrecto y ofrecerle la oportunidad de volvera intentarlo o de recuperar la contraseña.
