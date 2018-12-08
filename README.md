@@ -9,6 +9,9 @@
  + Historial de compra.
  + Filtrado de productos por categoría.
 
+### Tecnologías
+La tecnología que se va a usar para desarrollar el **Backend** es **Spring**, y para el **Frontend** se utilizará **Angular**, para la base de datos se utilizará **MySQL**, para crear la documentación se utilizará **Markdown**. El **IDE** que utilizaremos será **Eclipse EE**, y el editor markdown escogido es **Atom**. El gestor de repositorios es **Git**.
+
 ###  [Contextos](doc/contextos.md)
 
  1. [Superadministrador](doc/contextos/superadministrador.md)
